@@ -1,5 +1,5 @@
 {
-  "name": "WowAi",
+  "name": "WowArt Ai",
   "description": "An AI-powered creative suite to generate images, remove objects, and create 3D model visualizations using Google Gemini models.",
   "requestFramePermissions": []
 }

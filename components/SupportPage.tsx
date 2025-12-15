@@ -18,11 +18,11 @@ export const SupportPage: React.FC = () => {
     <div className="max-w-4xl mx-auto w-full animate-fade-in-up pb-12">
       <div className="text-center mb-10">
         <h2 className="text-3xl font-bold mb-3 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-          WowAi – Support & Help Center
+          WowArt Ai – Support & Help Center
         </h2>
         <p className="text-gray-400">
           Support information, main feature overview, and basic usage guide for
-          the WowAi application.
+          the WowArt Ai application.
         </p>
       </div>
 
@@ -52,9 +52,9 @@ export const SupportPage: React.FC = () => {
           </div>
           <div className="space-y-4 text-gray-300 text-sm leading-relaxed">
             <p>
-              WowAi is an AI-powered image creation and editing app that helps
-              you generate and refine visuals quickly and intuitively, even if
-              you have no design experience.
+              WowArt Ai is an AI-powered image creation and editing app that
+              helps you generate and refine visuals quickly and intuitively,
+              even if you have no design experience.
             </p>
             <div>
               <p className="font-semibold text-white mb-2">Key features:</p>
@@ -158,8 +158,8 @@ export const SupportPage: React.FC = () => {
           </div>
           <div className="space-y-6">
             <FaqItem
-              question="What can I do with WowAi?"
-              answer="With WowAi you can generate new images from text prompts, remove unwanted objects from photos, create 3D-style visuals, and quickly edit many aspects of your images – all in one app."
+              question="What can I do with WowArt Ai?"
+              answer="With WowArt Ai you can generate new images from text prompts, remove unwanted objects from photos, create 3D-style visuals, and quickly edit many aspects of your images – all in one app."
             />
             <FaqItem
               question="Do I need an internet connection?"
@@ -175,8 +175,9 @@ export const SupportPage: React.FC = () => {
         {/* Contact */}
         <div className="text-center pt-8 border-t border-gray-800">
           <p className="text-gray-400 mb-2 text-sm">
-            If you need additional help with WowAi (technical issues, feature
-            requests, payment problems, etc.), please contact the developer.
+            If you need additional help with WowArt Ai (technical issues,
+            feature requests, payment problems, etc.), please contact the
+            developer.
           </p>
           <p className="text-gray-500 mb-4 text-xs">
             Detailed contact information (email, website, or support form) is

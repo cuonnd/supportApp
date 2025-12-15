@@ -1,5 +1,5 @@
-import React from 'react';
-import { SupportPage } from './components/SupportPage';
+import React from "react";
+import { SupportPage } from "./components/SupportPage";
 
 const App: React.FC = () => {
   return (
@@ -12,7 +12,9 @@ const App: React.FC = () => {
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white font-bold text-lg shadow-lg shadow-blue-500/20 group-hover:shadow-blue-500/40 transition-all">
                 W
               </div>
-              <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400">WowAi Support</span>
+              <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400">
+                WowArt Ai Support
+              </span>
             </div>
           </div>
         </div>
@@ -25,7 +27,7 @@ const App: React.FC = () => {
 
       <footer className="border-t border-white/5 py-8 mt-auto">
         <div className="max-w-7xl mx-auto px-4 text-center text-gray-500 text-sm">
-          <p>© 2024 WowAi Studio. Powered by Google Gemini API.</p>
+          <p>© 2024 WowArt Ai Studio. Powered by Google Gemini API.</p>
         </div>
       </footer>
     </div>
